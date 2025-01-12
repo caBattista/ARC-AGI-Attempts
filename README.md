@@ -12,4 +12,4 @@ The idea is to have an LLM interpret the problem and generate ideas as to how to
   4) Repeat this process until it is sure how to solve the problem
 
 # Interpretation of the results
-It seems to be inferencing with each feedback cycle but unfortunately there seems to be to much noise in the idea generation process for it to arrive at a conclusion.
+It seems to be inferencing with each feedback cycle but unfortunately there seems to be to much noise in the idea generation process for it to arrive at a sucessful conclusion.
